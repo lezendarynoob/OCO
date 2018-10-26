@@ -17,6 +17,7 @@
 |[GirlScript Summer of Code](http://gssoc.tech)                              |          |All          |All                   |Prize  |                    | Jun-Aug        | No           |
 |[RAILS GIRLS SUMMER OF CODE](https://railsgirlssummerofcode.org)            |          |             |                      |       | Feb                | Jul-Sep        |              |
 | [Bloc](https://www.switchup.org/bootcamps/bloc)                             |   Global|   All       |Ruby on Rails, Javascript, jQuery, HTML, CSS, AngularJS, React.js, Node.js       |   $8,500.00                 |  	Rolling Dates              |  	Rolling Dates          | No
+| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)| Global| Security| All| No| July-September| All-year| No
 
 Note-Technologies may vary from project to project, so it is not necessary to know all the technologies.
 Also other technologies can be used depending on the project.  
